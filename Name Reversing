@@ -1,0 +1,5 @@
+n=raw_input('Enter Your Name:')
+def reverse(string): 
+    string = "".join(reversed(string)) 
+    return string 
+print'Hello',n,'Please to Meet you!','Did You know that your name backwards is',reverse(n)
