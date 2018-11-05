@@ -1,0 +1,4 @@
+i=0
+while i==10:
+  print 'GCI is Great'
+  i=i+1
